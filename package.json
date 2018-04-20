@@ -1,7 +1,7 @@
 {
-  "name": "my-sample-project",
+  "name": "random-quote-machine",
   "version": "0.10.3",
-  "description": "Seed project for ES6 in Angular archetecture",
+  "description": "Random quote machine",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/gulp serve",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vijay-vadlamani/my-sample-project.git"
+    "url": "https://github.com/vijay-vadlamani/random-quotes.git"
   },
   "bugs": {
     "url": ""
