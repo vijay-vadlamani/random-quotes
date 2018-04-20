@@ -18,7 +18,7 @@ System.config({
   map: {
     "babel": "npm:babel-core@5.8.34",
     "babel-runtime": "npm:babel-runtime@5.8.34",
-    "bootstrap-sass": "npm:bootstrap-sass@3.3.7",
+    "bootstrap-sass": "npm:bootstrap@4.1.0",
     "clean-css": "npm:clean-css@4.1.11",
     "core-js": "npm:core-js@1.2.6",
     "css": "github:systemjs/plugin-css@0.1.17",
@@ -68,8 +68,9 @@ System.config({
     "npm:babel-runtime@5.8.34": {
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
-    "npm:bootstrap-sass@3.3.7": {
-      "path": "github:jspm/nodelibs-path@0.1.0"
+    "npm:bootstrap@4.1.0": {
+      "jquery": "npm:jquery@3.3.1",
+      "tether": "github:HubSpot/tether@1.4.4"
     },
     "npm:buffer@3.5.0": {
       "base64-js": "npm:base64-js@0.0.8",
