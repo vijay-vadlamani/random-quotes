@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126cada-e1cb-4aff-bde8-65064de0bbaf" name="Default" comment="Welcome Page with location">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jspm.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/.dependencies.json" beforeDir="false" afterPath="$PROJECT_DIR$/jspm_packages/.dependencies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5.js" beforeDir="false" afterPath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,29 +22,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="const.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulp/const.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            <state relative-caret-position="239">
+              <caret line="67" column="16" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulp/tasks/build.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="640">
+              <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+              <folding>
+                <element signature="e#15#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jspm.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".dependencies.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/.dependencies.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-sass@3.3.5.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="441" column="9" selection-start-line="441" selection-start-column="9" selection-end-line="441" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -49,52 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
               <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#92#116#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/Components/Home/Home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/Components/Home/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding>
-                <element signature="e#27#95#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +135,6 @@
       <find>runUnitTestsOnChange</find>
       <find>gitRev.short()</find>
       <find>gitRevisionShort</find>
-      <find>gitRevisionShort</find>
       <find>webdriver-manager-update</find>
       <find>git</find>
       <find>git-rev-sync</find>
@@ -136,8 +142,14 @@
       <find>gitRev</find>
       <find>rev</find>
       <find>uglify-js</find>
-      <find>uglify</find>
+      <find>2.4.0</find>
+      <find>gulp-uglify</find>
+      <find>bootstrap-sass@3.3.5</find>
+      <find>cle</find>
       <find>clean-css</find>
+      <find>uglify</find>
+      <find>minimatch</find>
+      <find>3.4</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -146,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jspm.config.js" />
         <option value="$PROJECT_DIR$/.jshintrc" />
         <option value="$PROJECT_DIR$/gulp/paths.js" />
         <option value="$PROJECT_DIR$/src/app/Components/MotherComponent/MotherComponent.js" />
@@ -164,6 +175,12 @@
         <option value="$PROJECT_DIR$/src/app/Services/geolocation.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json" />
+        <option value="$PROJECT_DIR$/gulp/tasks/build.js" />
+        <option value="$PROJECT_DIR$/jspm_packages/.dependencies.json" />
+        <option value="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5.js" />
+        <option value="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/package.json" />
+        <option value="$PROJECT_DIR$/jspm.config.js" />
       </list>
     </option>
   </component>
@@ -176,6 +193,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
@@ -250,6 +268,42 @@
             <path>
               <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
               <item name="random-quote-machine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random-quote-machine" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random-quote-machine" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random-quote-machine" type="462c0819:PsiDirectoryNode" />
+              <item name="jspm_packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random-quote-machine" type="462c0819:PsiDirectoryNode" />
+              <item name="jspm_packages" type="462c0819:PsiDirectoryNode" />
+              <item name="npm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random-quote-machine" type="462c0819:PsiDirectoryNode" />
+              <item name="jspm_packages" type="462c0819:PsiDirectoryNode" />
+              <item name="npm" type="462c0819:PsiDirectoryNode" />
+              <item name="Base64@0.2.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random-quote-machine" type="462c0819:PsiDirectoryNode" />
+              <item name="jspm_packages" type="462c0819:PsiDirectoryNode" />
+              <item name="npm" type="462c0819:PsiDirectoryNode" />
+              <item name="clean-css@3.4.3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="random-quote-machine" type="b2602c69:ProjectViewProjectNode" />
@@ -332,24 +386,24 @@
       <updated>1524140793038</updated>
       <workItem from="1524140795126" duration="2949000" />
       <workItem from="1524150643653" duration="4988000" />
-      <workItem from="1524227981073" duration="82000" />
+      <workItem from="1524227981073" duration="1344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8019000" />
+    <option name="totallyTimeSpent" value="9281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49901184" visible="true" weight="0.14023961" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49901184" visible="true" weight="0.14023961" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932693" />
       <window_info id="npm" order="2" sideWeight="0.5009881" side_tool="true" weight="0.140625" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32962587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33670375" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33621755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -361,7 +415,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932693" />
       <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32962587" />
     </layout>
     <layout-to-restore>
@@ -524,11 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/tasks/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3484" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulp/tasks/docs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-91" />
@@ -557,13 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jspm.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1103">
-          <caret line="145" column="6" selection-start-line="145" selection-start-column="6" selection-end-line="145" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -645,8 +686,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        <state relative-caret-position="239">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+          <folding>
+            <element signature="e#15#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/.dependencies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="441" column="9" selection-start-line="441" selection-start-column="9" selection-end-line="441" selection-end-column="9" />
         </state>
       </provider>
     </entry>
