@@ -24,7 +24,7 @@
   "jspm": {
     "configFile": "jspm.config.js",
     "dependencies": {
-      "bootstrap-sass": "npm:bootstrap-sass@3.3.7",
+      "bootstrap-sass": "npm:bootstrap@4.1.0",
       "clean-css": "npm:clean-css@^4.1.11",
       "css": "github:systemjs/plugin-css@^0.1.17",
       "fetch-polyfill": "npm:fetch-polyfill@^0.8.1",
@@ -103,6 +103,8 @@
   },
   "dependencies": {
     "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1",
     "webdriver-manager": "^12.0.6"
   }
 }

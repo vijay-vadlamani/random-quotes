@@ -1,1 +1,1 @@
-module.exports = require("npm:bootstrap-sass@3.3.7/assets/javascripts/bootstrap.js");
+module.exports = require("npm:bootstrap@4.1.0/assets/javascripts/bootstrap.js");
