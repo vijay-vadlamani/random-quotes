@@ -4,7 +4,7 @@
 import MotherComponent from '../MotherComponent/MotherComponent.js';
 
 import template from './Home.html!text';
-// import stylesheet from './Home.scss!';
+import stylesheet from './Home.css!';
 
 import {geolocation} from '../../Services/geolocation.js';
 
@@ -37,31 +37,19 @@ export default class Home extends MotherComponent {
      */
     init() {
 
-        let geolocationInfo = this.domNode.querySelector('.location');
+        let randomQuoteGenerate = this.domNode.querySelector('.randomQuoteGenerate');
 
-        this.domNode.querySelector('.showLocation').addEventListener('click', () => {
-            geolocationInfo.style.display = "none";
-            geolocation()
-                .then((result) => {
-                    console.log(result);
-                    let tpl = `
-          <li>City: ${result.city}</li>
-          <li>Country: ${result.country_name}</li>
-          <li>Region: ${result.region_name}</li>
-          <li>Time zone: ${result.time_zone}</li>
-          <li>Region: ${result.region_name}</li>
-          <li>Latitude : ${result.latitude} / Longitude: ${result.longitude}</li>
-          <li>Timeout : ${result.timeout}ms</li>
-        `;
-                    geolocationInfo.style.display = "block";
-                    geolocationInfo.innerHTML = tpl;
-                })
-                .catch(e => {
-                    console.error(e);
-                    geolocationInfo.innerHTML = '<li>An error occured</li>';
-                    geolocationInfo.style.display = "block";
-                });
-        }, false);
-        return this;
-    }
-}
+        randomQuoteGenerate.addEventListener('click', function() {
+                let
+                    url= `https://talaikis.com/api/quotes/random/`;
+                fetch(url, {
+                    method: 'GET'
+                }).then(res => res.json())
+                    .catch(error => console.error('Error:', error))
+                    .then((response) => {
+                        document.getElementById('quote').innerHTML = response.quote;
+                        document.getElementById('author').innerHTML = '-' + response.author;
+                    });
+            });
+    };
+};

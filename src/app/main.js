@@ -19,8 +19,8 @@ export default class main {
     }
 
     /**
-     * Inits the {{#crossLink "Components.Home.Home"}}Geolocation{{/crossLink}} component
-     * @method initGeolocation
+     * Inits the {{#crossLink "Components.Home.Home"}}Home{{/crossLink}} component
+     * @method initHome
      * @static
      */
 

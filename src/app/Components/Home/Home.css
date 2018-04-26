@@ -1,0 +1,24 @@
+.home {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.jumbo {
+  margin-top: 10%;
+  padding: 10%;
+}
+
+.showLocation {
+  margin-left: 80%;
+}
+
+#quote {
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+#author {
+    float: right;
+    margin-top: 2rem;
+    font-size: 16px;
+}
